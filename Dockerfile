@@ -9,6 +9,6 @@ COPY entrypoint.sh /entrypoint.sh
 
 RUN pip install --upgrade pip
 RUN pip install chalice
-RUN pip install -r requirements.txt
+RUN pip install requests
 
 ENTRYPOINT ["/entrypoint.sh"]
