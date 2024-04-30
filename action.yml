@@ -1,6 +1,6 @@
 name: AWS Chalice Action
 description: This Github action allows automatated deployment of your AWS Chalice application via Github Actions.
-author: Chris Oh <chris@5tigerjelly.com>
+author: Antonio Souza <arfs.antonio@gmail.com>
 branding:
   icon: cloud
   color: yellow
